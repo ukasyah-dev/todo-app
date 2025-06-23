@@ -1,0 +1,6 @@
+{
+    "editor.formatOnSave": true,
+    "files.insertFinalNewline": true,
+    "editor.inlayHints.enabled": "off",
+    "editor.tabSize": 2
+}
